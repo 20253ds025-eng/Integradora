@@ -99,9 +99,6 @@
 </div>
     <h3>Integrantes del Equipo:</h3>
     <ul>
-        <li><strong>[Tu Nombre Completo Aquí]</strong></li>
-        <li>[Nombre de tu compañero 2]</li>
-        <li>[Nombre de tu compañero 3]</li>
     </ul>
 </div>
 
